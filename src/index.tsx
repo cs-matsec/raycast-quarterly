@@ -61,7 +61,7 @@ export default function Command() {
   
   switch (quarterNumber) {
     case 1:
-      icon = Icon[`CircleProgress25`];
+      icon = Icon.CircleProgress25;
       break;
     case 2:
       icon = Icon.CircleProgress50;

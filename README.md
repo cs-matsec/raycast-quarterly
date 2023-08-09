@@ -1,3 +1,3 @@
 # Quarterly
 
-Tells you what the current Q is and how many days are left in it.
+A menu bar item which shows the current fiscal quarter and how many days are left in it.
