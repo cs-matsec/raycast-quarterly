@@ -14,7 +14,8 @@
       "name": "index",
       "title": "Quarterly",
       "description": "Tells you what the current Q is and how many days are left in it.",
-      "mode": "menu-bar"
+      "mode": "menu-bar",
+      "interval": "1h"
     }
   ],
   "preferences": [

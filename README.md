@@ -1,3 +1,3 @@
-# Quarterly
+# Quarterly for Raycast
 
-A menu bar item which shows the current fiscal quarter and how many days are left in it.
+A Raycast menu bar item which shows the current fiscal quarter and how many days are left in it.

@@ -76,7 +76,7 @@ export default function Command() {
 
   return (
     <MenuBarExtra icon={icon} isLoading={isLoading}>
-      <MenuBarExtra.Item title={`${currentQuarter} - ${daysLeftInCurrentQuarter} days left`}/>
+      <MenuBarExtra.Item title={isLoading ? Icon.Clock : `${currentQuarter} - ${daysLeftInCurrentQuarter} days left`}/>
     </MenuBarExtra>
   );
 }
